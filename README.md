@@ -3,4 +3,15 @@
 </p>
 # ThumbX
 Rehabilitación del dedo pulgar ACV
+Lista de exigencias
+-Geometria
+-Cinematica
+-Fuerzas
+-ENergia
+-Materia
+-señales
+
+-Sistema de control-
+-Electronica 
+-Hardware
 
