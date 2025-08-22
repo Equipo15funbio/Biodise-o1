@@ -1,2 +1,3 @@
-# Biodise-o1
+# ThumbX
 Rehabilitación del dedo pulgar ACV
+
