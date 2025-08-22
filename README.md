@@ -3,6 +3,6 @@
 </p>
 Rehabilitacion de pulgar en adultos con ACV
 
-<Title>THUMBX</Title>
+<t>THUMBX<t>
 <p>Introduccion</p>
 
