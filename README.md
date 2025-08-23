@@ -21,10 +21,10 @@ Rehabilitación del dedo pulgar ACV
   
 | Integrantes | Rol del proyecto | Correo electrónico | Foto  |
 | :-------: | :-------: | :-------: | :-----: |
-| Adriana Patricia Quispe Gomez     | Coordinadora de investigación  | salet.garcia@upch.pe | <image align="center;" style="borde-radius: 50%;" width="90px;" height="120px;" src="">
-| Jhamil Soto Vera    | Coordinadora de página web  | alessia.cerna@upch.pe | <image align="center;" style="border-radius: 50%;" width="90px;" src =""> |
-| Fernando Zela | Coordinadora de impresión 3D | adriana.quispe@upch.pe | <image align="center;" width="90px;" src="" >
-| Mariano Mateo Italo | Coordinador de programación | rafael.panez@upch.pe | <image align="center;" style="borde-radius: 50%;" width="90px;" height="120px;" src="">
-| Itzel Miyeko | Coordinador de diseño 3D | diego.munayco@upch.pe | <image align="center;" style="borde-radius: 50%;" width="90px;" src="">
-| Miguel Tello | Coordinador de electrónica | franco.peralta@upch.pe | <image align="center;" style="borde-radius: 50%;" width="90px;" src="">
+| Adriana Patricia Quispe Gomez     | Coordinadora de investigación  | adriana.quispe@upch.pe | <image align="center;" style="borde-radius: 50%;" width="90px;" height="120px;" src="">
+| Jhamil Soto Vera    | Coordinadora de página web  | @upch.pe | <image align="center;" style="border-radius: 50%;" width="90px;" src =""> |
+| Fernando Zela | Coordinadora de impresión 3D | @upch.pe | <image align="center;" width="90px;" src="" >
+| Mariano Mateo Italo | Coordinador de programación | @upch.pe | <image align="center;" style="borde-radius: 50%;" width="90px;" height="120px;" src="">
+| Itzel Miyeko | Coordinador de diseño 3D | @upch.pe | <image align="center;" style="borde-radius: 50%;" width="90px;" src="">
+| Miguel Tello | Coordinador de electrónica | @upch.pe | <image align="center;" style="borde-radius: 50%;" width="90px;" src="">
 
