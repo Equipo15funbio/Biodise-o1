@@ -28,3 +28,5 @@ Rehabilitación del dedo pulgar ACV
 | Itzel Miyeko  | Coordinadora de electrónica | @upch.pe | <image align="center;" style="borde-radius: 50%;" width="90px;" src="">
 | Miguel Tello Ocaña| Coordinador de diseño 3D | miguel.tello@upch.pe | <image align="center;" style="borde-radius: 50%;" width="90px;" src="">
 
+##Contexto
+
