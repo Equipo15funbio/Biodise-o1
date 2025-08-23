@@ -21,7 +21,7 @@ Rehabilitación del dedo pulgar ACV
   
 | Integrantes | Rol del proyecto | Correo electrónico | Foto  |
 | :-------: | :-------: | :-------: | :-----: |
-| Adriana Patricia Quispe Gomez     | Coordinadora de investigación  | adriana.quispe@upch.pe | <image align="center;" style="borde-radius: 50%;" width="90px;" height="120px;" src="">
+| Adriana Patricia Quispe Gomez     | Coordinadora de investigación  | adriana.quispe@upch.pe | <image align="center;" style="borde-radius: 50%;" width="90px;" height="120px;" src="https://www.istockphoto.com/es/foto/lindos-gatitos-tabby-reci%C3%A9n-nacidos-durmiendo-con-la-madre-gm656527208-119547121">
 | Jhamil Soto Vera  | Coordinador de electrónica y 3D  | jhamil.soto@upch.pe | <image align="center;" style="border-radius: 50%;" width="90px;" src =""> |
 | Fernando Zela  | Coordinador de programación | fernando.zela@upch.pe | <image align="center;" width="90px;" src="" >
 | Mariano Mateo Italo | Coordinador de programación | mariano.salazar@upch.pe | <image align="center;" style="borde-radius: 50%;" width="90px;" height="120px;" src="">
