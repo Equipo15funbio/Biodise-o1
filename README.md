@@ -28,5 +28,10 @@ Rehabilitación del dedo pulgar ACV
 | Itzel Miyeko  | Coordinadora de electrónica | @upch.pe | <image align="center;" style="borde-radius: 50%;" width="90px;" src="">
 | Miguel Tello Ocaña| Coordinador de diseño 3D | miguel.tello@upch.pe | <image align="center;" style="borde-radius: 50%;" width="90px;" src="">
 
-##Contexto
+## Contexto
+
+
+# **👍Anatomía del dedo pulgar**
+La mano representa aproximadamente el 33 % de la funcionalidad total del miembro superior, y subraya la importancia de evaluarla desde criterios anatómicos y funcionales que aborden movilidad, fuerza y sensibilidad 
+Dentro de ella, el pulgar e índice son claves porque permiten la pinza fina (oposición del pulgar con el índice) y la manipulación precisa de objetos
 
