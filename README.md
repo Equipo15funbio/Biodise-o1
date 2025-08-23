@@ -13,7 +13,7 @@ Rehabilitación del dedo pulgar ACV
 ## ✍️ Profesores del curso
 
 - Domingo Flores
-- José Cacere
+- José Caceres
 - Marco Mugaburu
 - Jhomer Contreras
 
