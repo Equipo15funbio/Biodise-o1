@@ -3,12 +3,12 @@
 </p>
 
 # ThumbX
-Rehabilitación del dedo pulgar ACV
+Rehabilitación del brazo en personas con ACV
 # 👋 Bienvenidos al repositorio de ThumbX.
 
 - Curso: Biodiseño 1
 - Línea de investigación: Biomecánica
-- Proyecto: "Prótesis de manufactura digital del dedo pulgar"
+- Proyecto: "Ortesis de manufactura digital en personas con ACV"
 
 ## ✍️ Profesores del curso
 
@@ -31,7 +31,6 @@ Rehabilitación del dedo pulgar ACV
 ## **Contexto Global**
 
 ## **Contexto Perú**
-
 
 ## **👍Anatomía del brazo**
 La mano representa aproximadamente el 33 % de la funcionalidad total del miembro superior, y subraya la importancia de evaluarla desde criterios anatómicos y funcionales que aborden movilidad, fuerza y sensibilidad 
