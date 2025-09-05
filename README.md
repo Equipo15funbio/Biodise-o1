@@ -46,7 +46,8 @@ La tabla muestra que las atenciones con diagnóstico definitivo aumentaron de 58
 
 Los datos confirman que la carga del accidente cerebrovascular aumenta notablemente con la edad: las personas mayores de 60 años presentan las tasas más elevadas, seguidas por el grupo de 50 a 59 años. Asimismo, en la mayoría de los años analizados los hombres tienden a estar más afectados que las mujeres [5].
 
-<img width="812" height="484" alt="image" src="https://github.com/user-attachments/assets/faaf9309-c702-42c4-805d-2c3ac12a1a4d" />
+<img width="876" height="481" alt="image" src="https://github.com/user-attachments/assets/815eeb81-45d4-4535-b8bc-420b1fb70f9c" />
+
 
 ## **👍Anatomía del brazo**
 La mano representa aproximadamente el 33 % de la funcionalidad total del miembro superior, y subraya la importancia de evaluarla desde criterios anatómicos y funcionales que aborden movilidad, fuerza y sensibilidad 
