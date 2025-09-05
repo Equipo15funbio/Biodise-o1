@@ -30,7 +30,7 @@ Rehabilitación del brazo en personas con ACV
 
 ## **¿Qué es el accidente cerebrovascular (ACV)?**
 
-El accidente cerebrovascular (ACV) es una interrupción repentina del flujo sanguíneo al cerebro, que puede ser isquémico (por bloqueo de un vaso sanguíneo) o hemorrágico (por ruptura de un vaso). Los pacientes con ACV pueden presentar una pérdida súbita de funciones como debilidad o parálisis en un lado del cuerpo, dificultad para hablar, problemas de visión, alteraciones en el equilibrio y coordinación, y pérdida de la capacidad de entender o generar lenguaje.
+El accidente cerebrovascular (ACV) es una interrupción repentina del flujo sanguíneo al cerebro. Puede clasificarse en dos tipos principales: isquémico, producido por la obstrucción de un vaso sanguíneo, y hemorrágico, ocasionado por la ruptura de un vaso cerebral [1][2]. Los pacientes afectados suelen presentar una pérdida súbita de funciones neurológicas, que se manifiesta como debilidad o parálisis en un lado del cuerpo, dificultad para hablar, alteraciones visuales, problemas de equilibrio y coordinación, además de dificultades para comprender o generar lenguaje [1][2].
 
 ## **Contexto Global**
 
@@ -40,3 +40,4 @@ El accidente cerebrovascular (ACV) es una interrupción repentina del flujo sang
 La mano representa aproximadamente el 33 % de la funcionalidad total del miembro superior, y subraya la importancia de evaluarla desde criterios anatómicos y funcionales que aborden movilidad, fuerza y sensibilidad 
 Dentro de ella, el pulgar e índice son claves porque permiten la pinza fina (oposición del pulgar con el índice) y la manipulación precisa de objetos
 
+## **Bibleografía**
