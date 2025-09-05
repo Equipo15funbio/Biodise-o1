@@ -44,6 +44,10 @@ En el Perú, el ACV constituye una de las principales causas de discapacidad neu
 
 La tabla muestra que las atenciones con diagnóstico definitivo aumentaron de 58,8% en 2022 a 61,6% en 2023, mientras que las presuntivas descendieron de 11,2% a 9,8%, lo que refleja una mejora en la precisión diagnóstica. Por su parte, las consultas repetitivas se mantuvieron cercanas al 30% en ambos años, lo que evidencia la necesidad de controles y rehabilitación continua en los pacientes que sobreviven a un ACV [4].
 
+Los datos confirman que la carga del accidente cerebrovascular aumenta notablemente con la edad: las personas mayores de 60 años presentan las tasas más elevadas, seguidas por el grupo de 50 a 59 años. Asimismo, en la mayoría de los años analizados los hombres tienden a estar más afectados que las mujeres [5].
+
+<img width="812" height="484" alt="image" src="https://github.com/user-attachments/assets/faaf9309-c702-42c4-805d-2c3ac12a1a4d" />
+
 ## **👍Anatomía del brazo**
 La mano representa aproximadamente el 33 % de la funcionalidad total del miembro superior, y subraya la importancia de evaluarla desde criterios anatómicos y funcionales que aborden movilidad, fuerza y sensibilidad 
 Dentro de ella, el pulgar e índice son claves porque permiten la pinza fina (oposición del pulgar con el índice) y la manipulación precisa de objetos
