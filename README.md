@@ -40,7 +40,7 @@ El accidente cerebrovascular (ACV) es una interrupción repentina del flujo sang
 
 En el Perú, el ACV constituye una de las principales causas de discapacidad neurológica y la segunda causa de muerte en la población adulta, durante los años 2022 y 2023 la sala la Virgen recibió el mayor número de casos que corresponde a la siguiente tabla [4].
 
-<img width="1136" height="388" alt="image" src="https://github.com/user-attachments/assets/f9c0b3fe-8140-4175-870e-6690efc3cb6f" />
+<img width="1144" height="373" alt="image" src="https://github.com/user-attachments/assets/53dfadc6-c28d-430b-a70f-5ac8d2d5044c" />
 
 La tabla muestra que las atenciones con diagnóstico definitivo aumentaron de 58,8% en 2022 a 61,6% en 2023, mientras que las presuntivas descendieron de 11,2% a 9,8%, lo que refleja una mejora en la precisión diagnóstica. Por su parte, las consultas repetitivas se mantuvieron cercanas al 30% en ambos años, lo que evidencia la necesidad de controles y rehabilitación continua en los pacientes que sobreviven a un ACV [4].
 
