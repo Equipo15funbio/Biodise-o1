@@ -28,6 +28,10 @@ Rehabilitación del brazo en personas con ACV
 | Itzel Miyeko de la Cruz Galvez  | Coordinadora de electrónica | itzel.de.la.cruz@upch.pe | <image align="center;" style="borde-radius: 50%;" width="90px;" src="trash/photo-1529778873920-4da4926a72c2.jpg">
 | Miguel Tello Ocaña| Coordinador de diseño 3D | miguel.tello@upch.pe | <image align="center;" style="borde-radius: 50%;" width="90px;" src="trash/photo-1529778873920-4da4926a72c2.jpg">
 
+## **¿Qué es el accidente cerebrovascular (ACV)?**
+
+El accidente cerebrovascular (ACV) es una interrupción repentina del flujo sanguíneo al cerebro, que puede ser isquémico (por bloqueo de un vaso sanguíneo) o hemorrágico (por ruptura de un vaso). Los pacientes con ACV pueden presentar una pérdida súbita de funciones como debilidad o parálisis en un lado del cuerpo, dificultad para hablar, problemas de visión, alteraciones en el equilibrio y coordinación, y pérdida de la capacidad de entender o generar lenguaje.
+
 ## **Contexto Global**
 
 ## **Contexto Perú**
