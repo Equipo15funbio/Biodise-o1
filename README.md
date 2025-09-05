@@ -34,7 +34,16 @@ El accidente cerebrovascular (ACV) es una interrupción repentina del flujo sang
 
 ## **Contexto Global**
 
+ A nivel global, el accidente cerebrovascular constituye una de las principales causas de mortalidad y discapacidad. Cada año afecta a cerca de 15 millones de personas, de las cuales 5 millones fallecen y otros 5 millones sobreviven con secuelas permanentes, lo que representa una elevada carga para las familias y los sistemas de salud. Según la Organización Mundial de la Salud (OMS), la incidencia mundial del ACV es de aproximadamente 200 casos por cada 100 000 habitantes por año y se prevé un incremento del 27% entre los años 2000 y 2025, impulsado principalmente por el envejecimiento poblacional [3].
+ 
 ## **Contexto Perú**
+
+En el Perú, el ACV constituye una de las principales causas de discapacidad neurológica y la segunda causa de muerte en la población adulta, durante los años 2022 y 2023 la sala la Virgen recibió el mayor número de casos que corresponde a la siguiente tabla [4].
+
+<img width="1129" height="315" alt="image" src="https://github.com/user-attachments/assets/aeead8d0-d1b7-428e-a3fe-7990d3dcbe63" />
+Tabla 1 - Número total de atenciones de accidentes cerebrovasculares según consulta externa correspondiente. 2022 y 2023 - INCN [4]
+
+La tabla muestra que las atenciones con diagnóstico definitivo aumentaron de 58,8% en 2022 a 61,6% en 2023, mientras que las presuntivas descendieron de 11,2% a 9,8%, lo que refleja una mejora en la precisión diagnóstica. Por su parte, las consultas repetitivas se mantuvieron cercanas al 30% en ambos años, lo que evidencia la necesidad de controles y rehabilitación continua en los pacientes que sobreviven a un ACV [4].
 
 ## **👍Anatomía del brazo**
 La mano representa aproximadamente el 33 % de la funcionalidad total del miembro superior, y subraya la importancia de evaluarla desde criterios anatómicos y funcionales que aborden movilidad, fuerza y sensibilidad 
