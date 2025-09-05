@@ -48,6 +48,10 @@ Los datos confirman que la carga del accidente cerebrovascular aumenta notableme
 
 <img width="876" height="481" alt="image" src="https://github.com/user-attachments/assets/815eeb81-45d4-4535-b8bc-420b1fb70f9c" />
 
+## **¿Qué es la espasticidad? ¿Qué nervios se ven afectados?**
+
+
+
 
 ## **👍Anatomía del brazo**
 La mano representa aproximadamente el 33 % de la funcionalidad total del miembro superior, y subraya la importancia de evaluarla desde criterios anatómicos y funcionales que aborden movilidad, fuerza y sensibilidad 
