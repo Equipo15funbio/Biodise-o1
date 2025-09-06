@@ -50,6 +50,10 @@ Los datos confirman que la carga del accidente cerebrovascular aumenta notableme
 
 ## **¿Qué es la espasticidad? ¿Qué nervios se ven afectados?**
 
+La espasticidad es un trastorno motor que forma parte del síndrome de motoneurona superior. Se caracteriza por un aumento anormal y dependiente de la velocidad del tono muscular y del reflejo de estiramiento, lo que provoca rigidez, espasmos y resistencia al movimiento pasivo.
+Tras un ACV no se daña un nervio periférico específico, sino vías motoras centrales que normalmente frenan a los circuitos de la médula espinal. Al perderse ese control aumenta la excitabilidad del arco miotático, se intensifica la señal de los husos musculares a través de fibras Ia y II, disminuye la acción de los circuitos inhibitorios internos y las motoneuronas alfa y gamma del asta anterior se vuelven más excitables. El resultado clínico es la espasticidad post ACV. En la práctica suele predominar el exceso de tono en los flexores del miembro superior, con hombro en aducción y rotación interna, codo y muñeca en flexión y dedos en flexión, lo que limita el uso de la mano y orienta los objetivos de la rehabilitación. Es decir, el paciente presenta aumento del tono que crece al mover rápido la articulación, resistencia al movimiento pasivo y un patrón típico en el miembro superior con hombro en aducción y rotación interna, codo y muñeca en flexión y dedos en flexión, lo que dificulta abrir la mano, agarrar objetos y realizar actividades básicas, a veces con espasmos y dolor.
+
+<img width="436" height="581" alt="image" src="https://github.com/user-attachments/assets/75dd836f-f841-412f-88c7-dcb22c9bd600" />
 
 
 
