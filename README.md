@@ -67,6 +67,18 @@ La Escala de Ashworth modificada (MAS), que cuantifica cuánta resistencia ofrec
 
 Tabla 3 - Escala de Ashworth modificada adaptada de 7 [6]
 
+## **Rango de movimiento (ROM) normal:**
+
+En adultos sanos los valores de referencia más usados son estos aproximados. Hombro: flexión 160–180°, abducción 170–180°, extensión 45–60°, rotación externa cerca de 90°, rotación interna 70–90°. Codo: 0–145° de extensión a flexión. Antebrazo: pronación 80–90° y supinación 80–90°. Muñeca: flexión 70–90° y extensión 70–90° [7].
+
+<img width="2869" height="1963" alt="image" src="https://github.com/user-attachments/assets/8bad096f-392f-4dc6-b3ad-460204335374" />
+
+Imagen 2. Evaluación activa del rango de movimiento del hombro. Ilustración de los movimientos del hombro comúnmente evaluados en evaluaciones clínicas. [7]
+
+## **Variación del ángulo articular según el grado de espasticidad**
+
+
+
 ## **💪Anatomía del brazo**
 El brazo (miembro superior entre el hombro y el codo) está compuesto por el húmero y sus articulaciones con la escápula (hombro) y con el radio/cúbito (codo). Los músculos principales se organizan en dos compartimentos: flexores (bíceps braquial, braquial anterior y coracobraquial) y extensores (tríceps braquial y ancóneo). La función principal de estos músculos es la flexión y extensión del antebrazo en la articulación del codo (1). Así, al contraerse el bíceps y el braquial se dobla el codo (flexión) y al contraerse el tríceps se endereza el codo (extensión).En condiciones normales, los impulsos motores nacen en la corteza cerebral, descienden por la vía corticoespinal al lado contralateral de la médula espinal y hacen sinapsis con las motoneuronas segmentarias que inervan estos músculos.
 
