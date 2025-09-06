@@ -69,6 +69,7 @@ Clínicamente, el brazo hemipléjico adopta un patrón típico flexor: hombro en
 Además de la postura anormal, la espasticidad sostenida produce cambios adaptativos en los tejidos blandos. El tono anormalmente alto mantiene el codo en flexión fija y conduce al acortamiento de músculos y tendones flexores.Con el tiempo se desarrollan retracciones tendinosas y contracturas, de modo que el codo puede quedar “congelado” en flexión, doloroso y con pérdida de rango articular.Al mismo tiempo, la falta de uso del brazo afectado provoca atrofia muscular de los extensores (tríceps) y otros grupos musculares, agravando la debilidad(4)
 
 <img width="225" height="329" alt="image" src="https://github.com/user-attachments/assets/d5900618-60e2-4383-a209-4fbca0278ef9" />
+
 Imágen 3: Músculo tríceps braquial
 
 Otra consecuencia común es la subluxación de hombro: al debilitarse los músculos de soporte del hombro, la cabeza del húmero puede desplazarse inferiormente. Para prevenirlo se recomienda posicionar el brazo con almohadas o cabestrillos adecuados mientras el paciente está sentado o en cama(5)
