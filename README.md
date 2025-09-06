@@ -83,7 +83,7 @@ Los estudios recientes muestran que, a medida que aumenta la puntuación en la E
 
 La clasificación de Hefter describe cinco patrones espásticos típicos del miembro superior después de un accidente cerebrovascular. El patrón I es el más común y se caracteriza por hombro en aducción y rotación interna, codo en flexión, antebrazo en pronación y muñeca en flexión, configurando la postura clásica de brazo pegado al cuerpo. El patrón II mantiene esta disposición, pero con una pronunciación más marcada del antebrazo y, en ocasiones, cierre de los dedos, lo que acentúa la limitación funcional. El patrón III se diferencia por la extensión rígida del codo, hombro en aducción y antebrazo en pronación, dejando el brazo estirado y rígido junto al tronco. El patrón IV combina flexión de codo con una ligera abducción del hombro, pronación del antebrazo y flexión de la muñeca, dando un aspecto de mayor apertura del brazo. Finalmente, el patrón V afecta principalmente la mano, con flexión intensa de muñeca, dedos y pulgar, mientras el codo puede estar libre o neutro, comprometiendo sobre todo la función manual. Esta clasificación es útil porque permite identificar los músculos más comprometidos y orientar estrategias de tratamiento dirigidas a mejorar la postura y la función [11].
 
-<img width="3765" height="1937" alt="image" src="https://github.com/user-attachments/assets/713fabcc-9426-4605-86b8-2a84c78ca632" 
+<img width="3765" height="1937" alt="image" src="https://github.com/user-attachments/assets/506c1d18-5158-4d0c-a3ab-2d33a6d2493f" />
   
 Tabla 3 - Clasificación de la extremidad superior espástica- Patrones de Hefter. 
 ## **💪Anatomía del brazo**
