@@ -59,6 +59,14 @@ Tras un accidente cerebrovascular (ACV) no se afecta un nervio periférico espec
 
 Imagen 1. Circuitos medulares del reflejo miotático y su alteración en la espasticidad post-ACV [6].
 
+## **¿Qué es la Escala de Ashworth modificada?**
+
+La Escala de Ashworth modificada (MAS), que cuantifica cuánta resistencia ofrece un músculo espástico cuando se mueve pasivamente, en otras palabras estos grados permiten objetivar la severidad de la espasticidad y seguir su evolución. El grado 0 significa que no hay cambios en la respuesta muscular durante la flexión o extensión, es decir, tono normal sin resistencia adicional perceptible. El grado 1 describe un ligero aumento del tono que se nota al inicio del movimiento o como una mínima resistencia al final del arco. El grado 1+ indica un ligero aumento inicial seguido de una resistencia mínima que se percibe en menos de la mitad del resto del arco de movimiento. El grado 2 corresponde a un incremento notable de la resistencia durante la mayor parte del arco articular, aunque la articulación aún puede moverse con relativa facilidad. El grado 3 señala un aumento marcado del tono, de modo que el movimiento pasivo se vuelve difícil. El grado 4 equivale a rigidez casi completa del segmento en flexión o extensión cuando se intenta el movimiento pasivo. 
+
+<img width="1750" height="358" alt="image" src="https://github.com/user-attachments/assets/e7fc8dd3-cf79-4685-8038-e93aefd68258" />
+
+Tabla 3 - Escala de Ashworth modificada adaptada de 7 
+
 ## **💪Anatomía del brazo**
 El brazo (miembro superior entre el hombro y el codo) está compuesto por el húmero y sus articulaciones con la escápula (hombro) y con el radio/cúbito (codo). Los músculos principales se organizan en dos compartimentos: flexores (bíceps braquial, braquial anterior y coracobraquial) y extensores (tríceps braquial y ancóneo). La función principal de estos músculos es la flexión y extensión del antebrazo en la articulación del codo (1). Así, al contraerse el bíceps y el braquial se dobla el codo (flexión) y al contraerse el tríceps se endereza el codo (extensión).En condiciones normales, los impulsos motores nacen en la corteza cerebral, descienden por la vía corticoespinal al lado contralateral de la médula espinal y hacen sinapsis con las motoneuronas segmentarias que inervan estos músculos.
 
