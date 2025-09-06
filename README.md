@@ -62,6 +62,8 @@ El brazo (miembro superior entre el hombro y el codo) está compuesto por el hú
 
 <img width="1037" height="730" alt="image" src="https://github.com/user-attachments/assets/57a12d87-ac8b-4823-8bd4-9543cc770804" />
 
+Imagen 2: Músculo del brazo y del hombro
+
 Tras el ACV suele darse una fase inicial de flacidez, seguida de espasticidad que aparece en días o semanas. Estudios indican que alrededor del 80% de los supervivientes presentan afectación sensoriomotora, siendo la paresia y la espasticidad los principales determinantes de la discapacidad (2)
 Clínicamente, el brazo hemipléjico adopta un patrón típico flexor: hombro en aducción e rotación interna, codo fuertemente flexionado, antebrazo en posición neutra y muñeca/dedos en flexión.Este patrón (descrito como Patrón 3 de Hefter) debe mucho al predominio de la espasticidad en los músculos flexores del codo. Como resultado, el codo tiende a quedar habitualmente doblado, limitando su extensión activa y pasiva(3)
 Además de la postura anormal, la espasticidad sostenida produce cambios adaptativos en los tejidos blandos. El tono anormalmente alto mantiene el codo en flexión fija y conduce al acortamiento de músculos y tendones flexores.Con el tiempo se desarrollan retracciones tendinosas y contracturas, de modo que el codo puede quedar “congelado” en flexión, doloroso y con pérdida de rango articular.Al mismo tiempo, la falta de uso del brazo afectado provoca atrofia muscular de los extensores (tríceps) y otros grupos musculares, agravando la debilidad(4)
