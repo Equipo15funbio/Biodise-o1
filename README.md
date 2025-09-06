@@ -86,5 +86,5 @@ Otra consecuencia común es la subluxación de hombro: al debilitarse los múscu
 
 
 ## **Pregunta de investigación**
-¿Puede una órtesis dinámica de codo, diseñada para modular el tono y asistir en la extensión/flexión, favorecer la transición de pacientes post-ACV con espasticidad del Patrón I al Patrón II de Hefter, reduciendo la severidad de la espasticidad en un puntaje de 1–2 en la Escala de Ashworth Modificada?
+¿Puede una órtesis dinámica de codo, diseñada para modular el tono y asistir en la extensión/flexión, favorecer la transición de pacientes post-ACV con espasticidad del Patrón I al Patrón II de Hefter, reduciendo la severidad de la espasticidad en un puntaje de 2-1 en la Escala de Ashworth Modificada?
 ## **Bibleografía**
