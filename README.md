@@ -103,6 +103,11 @@ Imágen 3: Músculo tríceps braquial
 
 Otra consecuencia común es la subluxación de hombro: al debilitarse los músculos de soporte del hombro, la cabeza del húmero puede desplazarse inferiormente. Para prevenirlo se recomienda posicionar el brazo con almohadas o cabestrillos adecuados mientras el paciente está sentado o en cama(5)
 
+## Justificación anatomica 
+Se colocará el actuador en el compartimento posterior (tríceps) para generar par extensor alineado con el tendón hacia el olécranon, contrarrestando la sinergia flexora típica post-ACV. La ventana de 4–7 N·m se justifica porque la resistencia espástica del bíceps durante estiramientos clínicos alcanza ~3–6 N·m y las AVD demandan ~5–6 N·m en flexo-extensión; además, ~7 N·m de asistencia ya mostró reducción significativa de EMG y coste metabólico. Este rango queda muy por debajo de los torques tope usados en estiramiento instrumentado (10–15 N·m), aportando margen de seguridad. En adultos (edad media ≈ 46 años en paradigmas de AVD), esta dosificación soporta objetivos de alcance y función, con transmisión cable-driven proximal para minimizar masa distal.
+
+<img width="793" height="595" alt="image" src="https://github.com/user-attachments/assets/0275aca3-d250-4173-954f-3c96c564540d" />
+
 
 ## **Pregunta de investigación**
 ¿Puede una órtesis dinámica de codo, diseñada para modular el tono y asistir en la extensión/flexión, favorecer la transición de pacientes post-ACV con espasticidad del Patrón I al Patrón II de Hefter, reduciendo la severidad de la espasticidad en un puntaje de 2-1 en la Escala de Ashworth Modificada?
