@@ -81,7 +81,7 @@ Imagen 2. Evaluación activa del rango de movimiento del hombro. Ilustración de
 
 ## **Variación del ángulo articular según el grado de espasticidad**
 
-Los estudios recientes muestran que, a medida que aumenta la puntuación en la Escala Modificada de Ashworth (MAS), los ángulos articulares del miembro superior se reducen de forma medible [8]. En la muñeca, pacientes con espasticidad leve o moderada (MAS 1–2) logran rangos de flexo-extensión de 27–32° en el lado afectado, frente a 33–50° en el no afectado; en el codo, incluso con MAS 0, el lado afectado suele presentar menor amplitud (32° vs 46°), mientras que con MAS 1–2 el rango activo puede estar en 44–51° [8]. En casos más graves, el hombro puede mostrar flexión y abducción activas alrededor de 50° y movilidad pasiva por debajo de 90°, comparado con 160–180° normales, hallazgos coherentes con mediciones cinemáticas sin marcadores (MMC) en supervivientes de ACV [9][10].
+En el codo, a medida que aumenta la puntuación en la Escala Modificada de Ashworth (MAS), el rango de movimiento activo disminuye: incluso con MAS 0 el lado afectado suele mostrar 32° de amplitud activa frente a 46° en el lado no afectado, y con espasticidad leve a moderada (MAS 1–2) el rango activo suele situarse entre 44–51°, lo que indica que persiste movimiento funcional aunque reducido; estos resultados son coherentes con mediciones cinemáticas mediante captura de movimiento sin marcadores en supervivientes de ACV, que describen patrones de limitación del codo acordes con el incremento del tono. [8][9][10]
 
 ## **Clasificación de los patrones de ACV:**
 
