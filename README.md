@@ -85,7 +85,9 @@ La clasificación de Hefter describe cinco patrones espásticos típicos del mie
 
 <img width="3765" height="1937" alt="image" src="https://github.com/user-attachments/assets/506c1d18-5158-4d0c-a3ab-2d33a6d2493f" />
   
-Tabla 3 - Clasificación de la extremidad superior espástica- Patrones de Hefter. 
+Tabla 3 - Clasificación de la extremidad superior espástica- Patrones de Hefter.
+
+
 ## **💪Anatomía del brazo**
 El brazo (miembro superior entre el hombro y el codo) está compuesto por el húmero y sus articulaciones con la escápula (hombro) y con el radio/cúbito (codo). Los músculos principales se organizan en dos compartimentos: flexores (bíceps braquial, braquial anterior y coracobraquial) y extensores (tríceps braquial y ancóneo). La función principal de estos músculos es la flexión y extensión del antebrazo en la articulación del codo (1). Así, al contraerse el bíceps y el braquial se dobla el codo (flexión) y al contraerse el tríceps se endereza el codo (extensión).En condiciones normales, los impulsos motores nacen en la corteza cerebral, descienden por la vía corticoespinal al lado contralateral de la médula espinal y hacen sinapsis con las motoneuronas segmentarias que inervan estos músculos.
 
@@ -108,15 +110,37 @@ Se colocará el actuador en el compartimento posterior (tríceps) para generar p
 
 <img width="793" height="595" alt="image" src="https://github.com/user-attachments/assets/0275aca3-d250-4173-954f-3c96c564540d" />
 
-Aquí tienes la curva de rehabilitación con exoesqueleto en pacientes post-ACV:
+La curva de rehabilitación con exoesqueleto en pacientes post-ACV:
 0–2 semanas: ganancia rápida inicial gracias al soporte del dispositivo.
 
 
 2–6 semanas: progreso más lento pero sostenido conforme se reduce la asistencia.
+
 6–10 semanas: tendencia a meseta, donde se estabilizan los avances y se requieren nuevas estrategias (mayor dificultad, variabilidad de tareas, combinación con otras terapias).
 
 
-Curva de recuperación post-ACV sin exoesqueleto (terapia convencional del pulgar post-ACV)
+Primero, porque los exoesqueletos permiten un número mucho mayor de repeticiones por sesión. Mientras que en fisioterapia convencional el paciente logra menos de 50 movimientos útiles, con un exoesqueleto se pueden superar fácilmente las 300 o 400 repeticiones. Y como la plasticidad cerebral depende de repetición e intensidad, esto acelera la recuperación.
+
+Segundo, porque los exoesqueletos trabajan con asistencia adaptativa. Es decir, el dispositivo no sustituye al paciente, sino que ajusta la fuerza según el grado de movimiento que el paciente puede realizar. Esto es fundamental en la extensión del codo, donde los pacientes suelen fatigarse rápido o tener espasticidad leve. El exoesqueleto acompaña el movimiento en lugar de imponerlo.
+
+Tercero, porque ofrecen medición objetiva. Incorporan sensores de ángulo, fuerza y torque que registran datos de cada sesión. A diferencia de la terapia manual, aquí el equipo clínico obtiene evidencia cuantitativa para evaluar el progreso y personalizar la rehabilitación.
+
+Y cuarto, porque proporcionan motivación y autonomía. El paciente puede realizar la terapia de forma más independiente, incluso con retroalimentación visual en pantallas o entornos de realidad virtual, lo que aumenta la adherencia al tratamiento.
+
+En conclusión, elegimos la rehabilitación con exoesqueleto para extensión del brazo porque:
+
+Multiplica las repeticiones,
+
+Se adapta al esfuerzo del paciente,
+
+Permite medir objetivamente la evolución,
+
+Y motiva al paciente a seguir progresando.
+
+Todo esto se traduce en un mayor potencial de recuperación funcional comparado con las terapias tradicionales."
+
+
+Curva de recuperación post-ACV sin exoesqueleto (terapia convencional post-ACV)
 
 1.Fase inicial (0–2 semanas)
 
@@ -130,7 +154,6 @@ Sin embargo, la cantidad de repeticiones lograda en terapia tradicional suele se
 
 El progreso continúa pero más lentamente.
 
-El pulgar, al ser crucial para pinzas finas (pulp-to-pulp, trípode, lateral), requiere práctica intensiva y orientada a tareas. En terapia convencional, esto depende de la motivación del paciente y la disponibilidad del terapeuta.
 
 Aquí se suele alcanzar alrededor del 40–50% de la recuperación funcional de la mano.
 
@@ -138,7 +161,7 @@ Aquí se suele alcanzar alrededor del 40–50% de la recuperación funcional de 
 
 La curva se aplana: la recuperación entra en meseta, con cambios mínimos.
 
-La falta de repetición intensiva, variabilidad de tareas y asistencia adaptativa hace que muchos pacientes queden con déficits persistentes en destreza fina del pulgar.
+
 
 El techo funcional esperado en promedio con fisioterapia convencional suele rondar el 60–70% de la recuperación máxima posible.
 
@@ -149,14 +172,11 @@ Mejoría rápida inicial, pero limitada.
 Meseta temprana, donde los progresos son mínimos.
 
 
-Déficits residuales en precisión de pinza, fuerza del pulgar y actividades de la vida diaria (abotonarse, manipular llaves, monedas, utensilios).
-<img width="820" height="483" alt="image" src="https://github.com/user-attachments/assets/db3d61eb-3047-4c05-b834-ee28e04242d2" />
-<img width="857" height="517" alt="image" src="https://github.com/user-attachments/assets/bf2ee6eb-8d1d-4ba9-becc-9ccd04962f2e" />
-Lang CE et al., 2009 (Stroke Rehabilitation Longitudinal Study)
+
 
 Documentaron que la mayor parte de la recuperación de la mano tras ACV ocurre en las primeras 5–6 semanas.
 
-Después de la semana 13, los cambios en la extensión activa del pulgar y dedos fueron menores al 20%, confirmando el fenómeno de meseta【Lang et al., Stroke, 2009; PMC2712280】.
+D
 
 Kwakkel G et al., 2004 (Lancet Neurology, meta-análisis)
 
@@ -172,30 +192,14 @@ Recomiendan explícitamente el uso de práctica orientada a tareas e intensiva, 
 
 
 
-
-Aquí tienes el gráfico comparativo de la curva de rehabilitación del pulgar post-ACV:
-Con exoesqueleto (línea azul): recuperación más rápida y con un techo más alto (cerca del 100%).
-
-
 Sin exoesqueleto (línea naranja punteada): progreso más lento y con un límite funcional menor (alrededor del 70%), reflejando la dificultad de alcanzar la misma independencia solo con terapia convencional.
 
-6. Resultados esperados(Fer)
 
-Recuperación funcional del dedo (pulgar/índice).
 
-El artículo  aborda los déficits somatosensoriales frecuentes tras un accidente cerebrovascular, los cuales limitan la recuperación motora y la autonomía. Su objetivo fue verificar la validez y En pacientes que han sufrido un accidente cerebrovascular (ACV), la rehabilitación del miembro superior —y en particular de la función del pulgar— se fundamenta en el principio de práctica intensiva, repetitiva y orientada a tareas. La terapia busca favorecer la neuroplasticidad, es decir, la capacidad del cerebro de reorganizar conexiones y reasignar funciones motoras perdidas hacia nuevas áreas corticales.
-El uso de dispositivos asistidos por robot o exoesqueletos permite aumentar el número de repeticiones de forma segura y controlada, con asistencia graduada (assist-as-needed) que se reduce progresivamente
-confiabilidad de dos pruebas clínicas simples: la Prueba de Monofilamento de Semmes-Weinstein (SWMT) para sensibilidad táctil y la Prueba de Localización del Pulgar (TLT) para propiocepción. Se evaluaron 50 pacientes con hemiparesia crónica post-ACV, aplicando protocolos estandarizados y analizando la confiabilidad intra e inter-examinador, así como la validez mediante correlaciones con el Stroke Impairment Assessment Set (SIAS).
-<img width="670" height="720" alt="image" src="https://github.com/user-attachments/assets/a3ee4809-733d-4f55-8f8a-82cf47602b70" />
-<img width="326" height="200" alt="image" src="https://github.com/user-attachments/assets/38e333f3-f2cd-4054-940c-6b058a258d41" />
-Calificación de resultados positivos. 1 grado, una vez que el pulgar y el índice de la extremidad que alcanza la extremidad alcanzada alcanzan varios centímetros de distancia de la punta del pulgar de la extremidad fija, entonces no llegan a la punta. Después de eso, hacen una corrección de rumbo y finalmente llegan a la punta. También se clasifica como 1 grado si el curso de la extremidad de alcance no era lineal, aunque la extremidad de alcance podría llegar a la punta en un momento. 2 grados, el pulgar y el índice de la extremidad que alcanza alcanzan un lugar a más de varios centímetros de la punta del pulgar de la extremidad fija y se mueven en el aire en busca del pulgar. O accidentalmente golpean el pulgar u otros dedos de la extremidad fija y llegan a la punta del pulgar trazando sobre la piel. También se da el caso de que el paciente tiene éxito en el procedimiento moviendo el pulgar de la extremidad fija a pesar de que se le indicó que no lo hiciera. 3 grados, la extremidad que alcanza golpea el antebrazo de la extremidad fija y llega al pulgar trazando sobre la piel o la extremidad que alcanza se mueve en el aire sin encontrar el pulgar y finalmente el paciente abandona la prueba.
 
-M. Suda, M. Kawakami, K. Okuyama, R. Ishii, O. Oshima, N. Hijikata, T. Nakamura, A. Oka, K. Kondo, and M. Liu, “Validity and reliability of the Semmes-Weinstein Monofilament Test and the Thumb Localizing Test in patients with stroke,” Frontiers in Neurology, vol. 11, Art. no. 625917, Jan. 2021, doi: 10.3389/fneur.2020.625917.
 
-Mejora en independencia de pacientes con ACV.
-
-Dispositivo de bajo costo y mayor accesibilidad.
-
+## **Link de drive **
+https://drive.google.com/drive/folders/1k_zsaNS2JV12jn86S3jD4dv9OE7gSLL5
 
 ## **Pregunta de investigación**
 ¿Puede una órtesis dinámica de codo, diseñada para modular el tono y asistir en la extensión/flexión, favorecer la transición de pacientes post-ACV con espasticidad del Patrón I al Patrón II de Hefter, reduciendo la severidad de la espasticidad en un puntaje de 2-1 en la Escala de Ashworth Modificada?
