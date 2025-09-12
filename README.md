@@ -4,7 +4,7 @@
 
 # CHIMUELO
 Rehabilitación del brazo en personas con ACV
-# 👋 Bienvenidos al repositorio de ThumbX.
+# 👋 Bienvenidos al repositorio de CODOX.
 
 - Curso: Biodiseño 1
 - Línea de investigación: Biomecánica
