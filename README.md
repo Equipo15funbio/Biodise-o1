@@ -116,7 +116,8 @@ Se colocará el actuador en el compartimento posterior (tríceps) para generar p
 <img width="900" height="671" alt="image" src="https://github.com/user-attachments/assets/da94c519-61d3-4ba5-9693-e781fe2191dc" />
 
 
-
+La recuperación del brazo en pacientes post-ACV sigue típicamente una curva con tres fases: una mejoría rápida inicial, un progreso más lento intermedio y finalmente una meseta. Con fisioterapia convencional, durante las dos primeras semanas la mejoría se explica sobre todo por procesos fisiológicos espontáneos como la reducción del edema y la reorganización neural temprana, pero la cantidad de repeticiones efectivas en terapia manual suele ser baja, lo que limita el estímulo de plasticidad cerebral. Entre la segunda y la sexta semana el avance se vuelve más lento, y hacia la semana seis la curva tiende a aplanarse, alcanzando en promedio solo un 60–70% de la recuperación máxima de la función del brazo. En contraste, con rehabilitación robótica mediante exoesqueletos la curva muestra una pendiente más sostenida a partir de la segunda semana, ya que el dispositivo permite realizar cientos de repeticiones por sesión, ajusta la asistencia al esfuerzo real del paciente y asegura que la extensión del codo se ejecute en patrones controlados y seguros. Además, registra datos objetivos de torque y rango articular, lo que facilita personalizar la terapia. Gracias a estos factores, la meseta se retrasa y el nivel final de recuperación funcional del brazo es más alto, alcanzando en promedio un 80–90%. En conclusión, la evidencia científica demuestra que la rehabilitación con exoesqueleto en la extensión del brazo post-ACV logra un mayor techo funcional y prolonga el progreso frente a la terapia convencional, que se estanca tempranamente.
+<img width="1420" height="1153" alt="image" src="https://github.com/user-attachments/assets/d1e3e913-00df-452d-8f0d-f97f6bfaccba" />
 
 
 ## **Link de drive **
