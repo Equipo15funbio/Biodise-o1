@@ -52,7 +52,7 @@ Los datos confirman que la carga del accidente cerebrovascular aumenta notableme
 
 En 35–50, 51–69 y ≥70 años porque la recuperación tras ACV sigue un gradiente claro por edad: los adultos jóvenes (≤50) alcanzan con mayor frecuencia independencia funcional temprana (mRS 0–2 a 3 meses) y mantienen la ganancia hasta ~12–24 meses; el grupo 51–69 mejora, pero con menor magnitud y más variabilidad; y los ≥70 muestran menor recuperación y, con frecuencia, declive funcional tardío (6–30 meses). Además, modelos pronósticos específicos del miembro superior (p. ej., PREP2) incluyen la edad como factor que aumenta la probabilidad de un buen resultado motor.
 
-## **¿Qué es la espasticidad? ¿Qué nervios se ven afectados?**
+## **¿Qué es la espasticidad?**
 
 La espasticidad es un trastorno motor incluido en el síndrome de motoneurona superior. Se caracteriza por un aumento anormal y dependiente de la velocidad del tono muscular y del reflejo de estiramiento, lo que ocasiona rigidez, espasmos y resistencia al movimiento pasivo. 
 
